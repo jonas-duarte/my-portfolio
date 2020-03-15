@@ -1,0 +1,9 @@
+.container {
+  width: 100vw;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  color: #5998c5;
+  font-weight: lighter;
+}
